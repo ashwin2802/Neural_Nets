@@ -1,6 +1,6 @@
 #import numpy as np
 #import cv2
-
+#print("hello")
 #n = int(raw_input())
 #arr = raw_input()
 #l = list(map(int,arr.split()))
@@ -38,4 +38,6 @@
 #   print(arr)
 
 #print(arr[num-1])
-
+import os
+print("hello, it me, test1")
+os.system('python ./scripts/test.py')
